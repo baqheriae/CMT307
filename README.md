@@ -14,6 +14,6 @@ Pre-requisits to run the code:
 
 In order to run the code smoothly, please follow the follwoing instructions:
 1. Download all content of the repositary, then unzip them to a single folder.It is very important to have all datasets downloaded as is because the code is reads from the datasets in this way.
-2. Run jupyter notebook (from terminal, type jupyter notebook).
-3. Once the browswer opens with jupyter notebook interface, browse to the folder that containts the python code (PART2code_c1963244.ipynb) and open it
+2. Run jupyter notebook (from terminal, type pipenv shell, then type jupyter notebook).
+3. Once the browser opens with jupyter notebook interface, browse to the folder that containts the python code (PART2code_c1963244.ipynb) and open it
 4. Execute all parts of the code in the same order given and verify the results with the report.
